@@ -89,6 +89,27 @@ http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="CETV-4" tvg-logo="" group-title="CETV", CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
+#EXTINF:-1 tvg-id="71" tvg-name="上海新闻" tvg-logo="" group-title="上海卫视", 上海新闻
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="上海都市" tvg-logo="" group-title="上海卫视", 上海都市
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="上海ICS" tvg-logo="" group-title="上海卫视", 上海ICS
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="七彩戏剧" tvg-logo="" group-title="上海卫视", 七彩戏剧
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="上海教育" tvg-logo="" group-title="上海卫视", 上海教育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="五星体育" tvg-logo="" group-title="上海卫视", 五星体育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="东方影视" tvg-logo="" group-title="上海卫视", 东方影视
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="东方财经" tvg-logo="" group-title="上海卫视", 东方财经
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="法治天地" tvg-logo="" group-title="上海卫视", 法治天地
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="第一财经" tvg-logo="" group-title="上海卫视", 第一财经
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
+
 #EXTINF:-1, 安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1, 兵团卫视
