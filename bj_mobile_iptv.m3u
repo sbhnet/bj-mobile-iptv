@@ -91,24 +91,41 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 #EXTINF:-1 tvg-id="71" tvg-name="上海新闻" tvg-logo="" group-title="上海卫视", 上海新闻
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="上海都市" tvg-logo="" group-title="上海卫视", 上海都市
+#EXTINF:-1 tvg-id="72" tvg-name="上海都市" tvg-logo="" group-title="上海卫视", 上海都市
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="上海ICS" tvg-logo="" group-title="上海卫视", 上海ICS
+#EXTINF:-1 tvg-id="73" tvg-name="上海ICS" tvg-logo="" group-title="上海卫视", 上海ICS
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="七彩戏剧" tvg-logo="" group-title="上海卫视", 七彩戏剧
+#EXTINF:-1 tvg-id="75" tvg-name="七彩戏剧" tvg-logo="" group-title="上海卫视", 七彩戏剧
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="上海教育" tvg-logo="" group-title="上海卫视", 上海教育
+#EXTINF:-1 tvg-id="76" tvg-name="上海教育" tvg-logo="" group-title="上海卫视", 上海教育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="五星体育" tvg-logo="" group-title="上海卫视", 五星体育
+#EXTINF:-1 tvg-id="77" tvg-name="五星体育" tvg-logo="" group-title="上海卫视", 五星体育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="东方影视" tvg-logo="" group-title="上海卫视", 东方影视
+#EXTINF:-1 tvg-id="78" tvg-name="东方影视" tvg-logo="" group-title="上海卫视", 东方影视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="东方财经" tvg-logo="" group-title="上海卫视", 东方财经
+#EXTINF:-1 tvg-id="79" tvg-name="东方财经" tvg-logo="" group-title="上海卫视", 东方财经
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="法治天地" tvg-logo="" group-title="上海卫视", 法治天地
+#EXTINF:-1 tvg-id="80" tvg-name="法治天地" tvg-logo="" group-title="上海卫视", 法治天地
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="第一财经" tvg-logo="" group-title="上海卫视", 第一财经
+#EXTINF:-1 tvg-id="81" tvg-name="第一财经" tvg-logo="" group-title="上海卫视", 第一财经
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="浙江新闻" tvg-logo="" group-title="浙江卫视", 浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="浙江国际" tvg-logo="" group-title="浙江卫视", 浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="浙江少儿" tvg-logo="" group-title="浙江卫视", 浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="浙江教科" tvg-logo="" group-title="浙江卫视", 浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="浙江纪录" tvg-logo="" group-title="浙江卫视", 浙江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="浙江民生" tvg-logo="" group-title="浙江卫视", 浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="浙江经济" tvg-logo="" group-title="浙江卫视", 浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="浙江钱江" tvg-logo="" group-title="浙江卫视", 浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1, 安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
